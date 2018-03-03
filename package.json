@@ -1,7 +1,7 @@
 {
   "name": "color-ext",
   "scope": "ape",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ext functions for Unity Color",
   "main": "index.js",
   "repository": {
