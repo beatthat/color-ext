@@ -1,6 +1,6 @@
 {
   "name": "color-ext",
-  "scope": "ape",
+  "scope": "beatthat",
   "version": "1.0.2",
   "description": "ext functions for Unity Color",
   "main": "index.js",
@@ -11,7 +11,8 @@
   "files": [
     "index.js",
     "scripts",
-    "src"
+    "src",
+    "Runtime"
   ],
   "author": "larrykirschner@gmail.com",
   "license": "MIT",
@@ -33,6 +34,7 @@
   },
   "dependencies": {
     "path": "^0.12.7",
+    "pools": "github:beatthat/pools#semver:^1.0.0",
     "unity-npm-utils": "github:beatthat/unity-npm-utils#semver:^1.0.0"
   },
   "devDependencies": {}
