@@ -1,7 +1,7 @@
 {
   "name": "color-ext",
   "scope": "beatthat",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "ext functions for Unity Color",
   "main": "index.js",
   "repository": {
