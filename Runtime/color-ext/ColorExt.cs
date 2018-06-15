@@ -1,12 +1,13 @@
-using UnityEngine;
 using System;
+using BeatThat.Pools;
+using UnityEngine;
 
 namespace BeatThat.ColorExtensions
 {
-	/// <summary>
-	/// ext functions for Unity Color
-	/// </summary>
-	public static class ColorExt
+    /// <summary>
+    /// ext functions for Unity Color
+    /// </summary>
+    public static class ColorExt
 	{
 		public static Color WithAlpha(this Color c, float a)
 		{
@@ -26,3 +27,5 @@ namespace BeatThat.ColorExtensions
 
 	}
 }
+
+
